@@ -10,6 +10,20 @@ namespace Event_Based_Asynchronous_Pattern
     {
         static void Main(string[] args)
         {
+            CzescI();
+        }
+
+        private static void CzescI()
+        {
+          /*
+           * Zaprojektuj klase CompletedEventArgs dla zdarzenia
+           * obslugujacego asynchroniczna operacje
+           * MatMulAsync w ramach operacji asynchronicznego mnozenia
+           * macierzy. Rozwaz implementacje klasy ProgressChangedEventArgs.
+           * Przyjmij zalozenie ze mnozone macierze beda o rozmiarze n x n.
+           */ 
+
+
         }
     }
 }
