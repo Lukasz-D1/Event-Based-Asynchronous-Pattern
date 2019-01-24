@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompletedEventArgs.cs" />
+    <Compile Include="MatMulCompletedEventArgs.cs" />
     <Compile Include="MatMulCalculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
